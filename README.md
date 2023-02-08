@@ -1,9 +1,5 @@
 [![MasterHead](banner.png)](https://github.com/melissapg)
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melissapg&layout=compact&theme=vue)](https://github.com/melissapg/github-readme-stats)
--->
-
 <div alignn="left"> 
 <h2> 
   Welcome! Coffee or Tea? ☕
@@ -41,7 +37,7 @@ I am <strong>passionate<strong> about data solutions and am always on the lookou
 </div>
 
 <div align="center">
-  <a href="https://github.com/davidneves11">
+  <a href="https://github.com/melissapg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melissapg&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissapg&layout=compact&langs_count=7&theme=vue"/>
 </div>
