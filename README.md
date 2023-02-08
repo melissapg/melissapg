@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/-Gmail-ED401B?style=flat-square&labelColor=ED401B&logo=gmail&logoColor=white&link=mailto:melissappguarilha@gmail.com"/>
 </a>
 
-I'm Melissa and I study <strong>Computer Science</strong> at the <strong>[Federal University of Rio de Janeiro](https://ufrj.br)</strong>, I'm also a Data Engineer Jr. at <strong>[Mutual]("https://mutual.club")</strong>.
+I'm Melissa and I study <strong>Computer Science</strong> at the <strong>[Federal University of Rio de Janeiro](https://ufrj.br)</strong>, I'm also a <strong>Data Engineer Jr.</strong> at <strong>[Mutual]("https://mutual.club")</strong>.
 
 <p align="left">
   <ul>
