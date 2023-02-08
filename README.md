@@ -1,4 +1,5 @@
 [![MasterHead](banner.png)](https://github.com/melissapg)
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <div alignn="left"> 
 <h2> 
@@ -26,11 +27,10 @@ I'm Melissa and I study <strong>Computer Science</strong> at the <strong>[Federa
 </p>
 
 I am <strong>passionate</strong> about data solutions and always on the lookout for projects that allow me to explore and learn new horizons in the field. My goal is to apply my <strong>data science</strong> and <strong>data engineering</strong> skills to help turn raw data into valuable insights that can be used to make helpful decisions. 📊🤸‍♀️
-
+<!-- 
 <div align="center">
   <h2>These are my currents stats!</h2>
   <p>
-    Trying hard to improve while I'm not busy 🙃
   </p>
 </div>
 
@@ -38,4 +38,10 @@ I am <strong>passionate</strong> about data solutions and always on the lookout 
   <a href="https://github.com/melissapg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melissapg&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissapg&layout=compact&langs_count=7&theme=vue"/>
-</div>
+</div> -->
+
+<h2></h2>
+<div align="center">
+  <i class="devicon-python-plain"></i>
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+</div> -->
