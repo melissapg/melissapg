@@ -18,7 +18,7 @@ I'm Melissa and I study <strong>Computer Science</strong> at the <strong>[Federa
 
 <p align="left">
   <ul>
-    <li> Former <strong>University Monitor</strong> at <strong><a href="https://ufrj.br">Federal University of Rio de Janeiro</a></strong></li>.
+    <li><strong>University Database Monitor</strong> at <strong><a href="https://ufrj.br">Federal University of Rio de Janeiro</a></strong></li>.
     <li><strong>Member</strong> of the Development Team at <strong><a href="https://analytica.ufrj.br/">UFRJ Analytica</a></strong>, UFRJ's data science team.
     <li> Former <strong>Data Scientist Intern</strong> at <strong><a href="https://mutual.club">Mutual</a></strong>.
     <li><strong>Data Engineering Jr.</strong> at <strong><a href="https://mutual.club">Mutual</a></strong>.
