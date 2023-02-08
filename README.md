@@ -41,5 +41,5 @@ I am <strong>passionate</strong> about data solutions and always on the lookout 
 
 <h2></h2>
 <div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=python,R,aws,docker,flask,mongodb,mysql,postman,)](https://skillicons.dev)
-</div> -->
+  [![My Skills](https://skillicons.dev/icons?i=py,r,aws,docker,flask,mongodb,mysql,postman)](https://skillicons.dev)
+</div>
