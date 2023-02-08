@@ -1,6 +1,6 @@
 [![MasterHead](banner.png)](https://github.com/melissapg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melissapg&layout=compact)](https://github.com/melissapg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melissapg&layout=compact&theme=vue)](https://github.com/melissapg/github-readme-stats)
 
 <!--
 **melissapg/melissapg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
