@@ -1,5 +1,4 @@
 [![MasterHead](banner.png)](https://github.com/melissapg)
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <div alignn="left"> 
 <h2> 
@@ -42,6 +41,5 @@ I am <strong>passionate</strong> about data solutions and always on the lookout 
 
 <h2></h2>
 <div align="center">
-  <i class="devicon-python-plain"></i>
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  [![My Skills](https://skillicons.dev/icons?i=python,R,aws,docker,flask,mongodb,mysql,postman,)](https://skillicons.dev)
 </div> -->
