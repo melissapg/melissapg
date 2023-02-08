@@ -6,7 +6,7 @@
 
 <div alignn="left"> 
 <h2> 
-  Welcome! Ccoffee or Tea? ☕
+  Welcome! Coffee or Tea? ☕
  <br>
 </h2>
 
@@ -22,16 +22,16 @@ I'm Melissa and I study <strong>Computer Science</strong> at the <strong>[Federa
 
 <p align="left">
   <ul>
-    <li> Former <strong>University Monitor</strong> at <strong>[Federal University of Rio de Janeiro](https://ufrj.br)</strong></li>.
-    <li><strong>Member</strong> of the Development Team at <strong>[UFRJ Analytica](https://analytica.ufrj.br)</strong>, UFRJ's data science team.
-    <li> Former <strong>Data Scientist Intern</strong> at <strong>[Mutual](https://mutual.club)</strong>.
-    <li><strong>Data Engineering Jr.</strong> at <strong>[Mutual](https://mutual.club)</strong>.
+    <li> Former <strong>University Monitor</strong> at <strong><a href="https://ufrj.br">Federal University of Rio de Janeiro</a></strong></li>.
+    <li><strong>Member</strong> of the Development Team at <strong><a href="https://analytica.ufrj.br/">UFRJ Analytica</a></strong>, UFRJ's data science team.
+    <li> Former <strong>Data Scientist Intern</strong> at <strong><a href="https://mutual.club">Mutual</a></strong>.
+    <li><strong>Data Engineering Jr.</strong> at <strong><a href="https://mutual.club">Mutual</a></strong>.
     <li> Currently studying <strong>DevOps</strong> on my own.</li>
   </ul>
 </p>
 <br><br>
 
-I am <strong>passionate<strong> about data solutions and am always on the lookout for projects that allow me to explore and learn new horizons in the field. My goal is to apply my <strong>data science</strong> and <strong>data engineering</strong> skills to help turn raw data into valuable insights that can be used to make helpful decisions.
+I am <strong>passionate<strong> about data solutions and am always on the lookout for projects that allow me to explore and learn new horizons in the field. My goal is to apply my <strong>data science</strong> and <strong>data engineering</strong> skills to help turn raw data into valuable insights that can be used to make helpful decisions. 📊🤸‍♀️
 
 <div align="center">
   <h2>These are my currents stats!</h2>
@@ -42,6 +42,6 @@ I am <strong>passionate<strong> about data solutions and am always on the lookou
 
 <div align="center">
   <a href="https://github.com/davidneves11">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melissa-pg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissa-pg&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melissapg&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissapg&layout=compact&langs_count=7&theme=vue"/>
 </div>
