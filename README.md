@@ -10,11 +10,11 @@
  <br>
 </h2>
 
-![](https://komarev.com/ghpvc/?username=melissapg&style=flat-square&color=bluegreen)
+![](https://komarev.com/ghpvc/?username=melissapg&style=flat-square&color=green)
 <a href="https://www.linkedin.com/in/melissapg/" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melissa-pg/" /></a>
 <a href="mailto:melissappguarilha@gmail.com" alt="Gmail">
-<!-- <img src="https://img.shields.io/badge/-Gmail-ED401B?style=flat-square&labelColor=ED401B&logo=gmail&logoColor=white&link=mailto:erica.ferreira@poli.ufrj.br" /></a> -->
+<img src="https://img.shields.io/badge/-Gmail-ED401B?style=flat-square&labelColor=ED401B&logo=gmail&logoColor=white&link=mailto:melissappguarilha@gmail.com" /></a>
 
 I'm Melissa and I study Computer Science at the Federal University of Rio de Janeiro (UFRJ) 👩🏻‍💻.
 
