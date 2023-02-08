@@ -39,7 +39,8 @@ I am <strong>passionate</strong> about data solutions and always on the lookout 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissapg&layout=compact&langs_count=7&theme=vue"/>
 </div> -->
 
-<h2></h2>
-<div align="center">
-[![My Skills](https://skillicons.dev/icons?i=py,r,aws,docker,flask,mongodb,mysql,postman)](https://skillicons.dev)
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,aws,docker,flask,mongodb,mysql,postman" />
+  </a>
+</p>
