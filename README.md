@@ -14,12 +14,13 @@
   <img src="https://img.shields.io/badge/-Gmail-ED401B?style=flat-square&labelColor=ED401B&logo=gmail&logoColor=white&link=mailto:melissappguarilha@gmail.com"/>
 </a>
 
-I'm Melissa and I study <strong>Computer Science</strong> at the <strong>[Federal University of Rio de Janeiro](https://ufrj.br)</strong>, I'm also a <strong>Data Engineer</strong> at <strong>[Proffer](https://proffer.com.br)</strong>.
+I'm Melissa and I study <strong>Computer Science</strong> at the <strong>[Federal University of Rio de Janeiro](https://ufrj.br)</strong>, I'm also a <strong>Data Engineer</strong> at <strong>[BigDataCorp](https://bigdatacorp.com.br)</strong>.
 
 <p align="left">
   <ul>
     <li><strong>Undergraduate Teaching Assistant</strong> of Database Class at <strong><a href="https://ufrj.br">Federal University of Rio de Janeiro</a></strong>.
     <li>Former <strong>Member</strong> of the Development Team at <strong><a href="https://analytica.ufrj.br/">UFRJ Analytica</a></strong>, UFRJ's data science team.
+    <li>Former <strong>Data Engineer Jr.</strong> at <strong><a href="https://proffer.com.br">Proffer</a></strong>.
     <li>Former <strong>Data Scientist Intern</strong> at <strong><a href="https://mutual.club">Mutual</a></strong>.
     <li> Currently studying <strong>DevOps</strong> on my own.</li>
   </ul>
